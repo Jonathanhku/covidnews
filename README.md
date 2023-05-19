@@ -15,5 +15,5 @@ https://raw.githubusercontent.com/merry555/FibVID/main/claim_propagation/claim_p
 The news claims were collected from two fact-checking sites Politifact and Snopes, from January 2020 to December 2020. After that, claim-related tweets and retweets were extracted from Twitter.  
 
 ## Sampling 
-### Sample 1 for Common topic and words (n = 10,000)
+### Sample 1 for Common topic and words
 
