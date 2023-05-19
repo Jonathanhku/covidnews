@@ -16,4 +16,8 @@ The news claims were collected from two fact-checking sites Politifact and Snope
 
 ## Sampling 
 ### Sample 1 for Common topic and words
+Sampling Method: Extracting 5,000 each for true and fake news claims \n
+<img src="news1.png" alt="image description" width="500"/>
 
+### Sample 2 for Sentiment analysis
+Sampling method: Taking a random sample of 30,000 news claims
