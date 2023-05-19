@@ -21,3 +21,25 @@ The news claims were collected from two fact-checking sites Politifact and Snope
 
 ### Sample 2 for Sentiment analysis
 #### Sampling method: Taking a random sample of 30,000 news claims
+
+## Methods
+### Machine Learning Algorithms
+#### 1. Naive Bayes
+- Multinomial 
+- Log probability for feature importance
+#### 2. Random Forest Classifier
+- Bootstrapping
+- Gina impurity scores
+- Act as a benchmark for Precision Score of Naive Bayes
+
+## Evaulation 
+Naive Bayes (NB) Vs Random forest classifier (RF)
+Precision score : 76.905%(NB) > 72.152% (RF)
+
+## Discussion
+Common words for fake news: “imposter” and “hypocrisies”
+
+
+
+
+
