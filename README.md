@@ -38,7 +38,7 @@ Precision score : 76.905%(NB) > 72.152% (RF)
 
 ## Discussion
 Common words for fake news: “imposter” and “hypocrisies”
-
+<img src="https://drive.google.com/file/d/12NiwMCmnQKvbHw4WdUommJtODMgBQ3LL/view?usp=sharing)https://drive.google.com/file/d/12NiwMCmnQKvbHw4WdUommJtODMgBQ3LL/view?usp=sharing" alt="image description" width="500"/>
 
 
 
